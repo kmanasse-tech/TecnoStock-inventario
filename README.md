@@ -1,1 +1,0 @@
-# TecnoStock-inventario
